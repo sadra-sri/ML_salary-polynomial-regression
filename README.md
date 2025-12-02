@@ -71,7 +71,7 @@ In the notebook I:
 
     pip install -r requirements.txt
 
-4. 4. Download the `Position_Salaries.csv` file from Kaggle and save it in the project folder (same directory as the notebook).
+4. Download the `Position_Salaries.csv` file from Kaggle and save it in the project folder (same directory as the notebook).
 
 
 5. Run the notebook:
